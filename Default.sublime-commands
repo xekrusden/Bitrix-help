@@ -3,6 +3,7 @@
         "caption": "Bitrix Help: API"
         ,"command": "bitrix_help"
     },
+    
     {
         "caption": "Bitrix Help: Components"
         ,"command": "bitrix_help"
