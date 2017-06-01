@@ -2,7 +2,9 @@
 	"scope": "source.php - variable.other.php",
 
 	"completions":
-	[
+	
+		[
+			
 		{"trigger": "CBitrixLiveapi::OnAdminPageLoad", "contents": "${1:CBitrixLiveapi::}OnAdminPageLoad();\n$0"},
 			{"trigger": "CBitrixLiveapi::OnBuildGlobalMenu", "contents": "${1:CBitrixLiveapi::}OnBuildGlobalMenu(${2:&\\$aGlobalMenu}${3:, &\\$aModuleMenu});\n$0"},
 			{"trigger": "CSiteCorporate::ShowPanel", "contents": "${1:CSiteCorporate::}ShowPanel();\n$0"},
@@ -5067,5 +5069,6 @@
 			{"trigger": "CVoteUser::Delete", "contents": "${1:CVoteUser::}Delete(${2:\\$USER_ID});\n$0"},
 			{"trigger": "CVoteUser::GetList", "contents": "${1:CVoteUser::}GetList(${2:&\\$by}${3:, &\\$order}${4:, \\$arFilter=array()}${5:, &\\$is_filtered});\n$0"},
 			{"trigger": "CVoteUser::err_mess", "contents": "${1:CVoteUser::}err_mess();\n$0"}
-	]
-}
+	
+		]
+	}
