@@ -1,5 +1,5 @@
-# BitrixHelp
-### [Sublime] Text 2 plugin help in work with [Bitrix] CMS
+# Bitrix help
+### Text 2 plugin help in work with CMS Bitrix
 
 Feauters:
 
@@ -27,12 +27,12 @@ If you like work with HEAD you can locate BitrixHelp in your packages directory.
 - Go to your Packages directory, you can locate to your Packages directory by using the menu item 
   Preferences ->   Browse Packages...
 - Inside the Packages directory, clone the BitrixHelp repository using the command below: 
-  git clone https://github.com/matiaspub/BitrixHelp.git BitrixHelp
+  git clone https://github.com/matiaspub/BitrixHelp.git Bitrix help
 
 ### Download Manually
 
 - Download the files using the GitHub .zip download option.
-- Unzip the files and rename the folder to something like BitrixHelp.
+- Unzip the files and rename the folder to something like Bitrix help.
 - Copy the folder to your Sublime Text 2 Packages directory.
 
 ## Configuration
@@ -84,7 +84,4 @@ You will see opened tab in browser with choosen page of Bitrix Api Help.
 To speed choose component help page of Bitrix API Help - press __[ctrl+alt+b, ctrl+alt+c]__, and type some characters to find what you need and press Enter.
 You will see opened tab in browser with choosen page of Bitrix Api Help.
 
-
-[Sublime]: http://www.sublimetext.com/
-[PackageControll]: http://wbond.net/sublime_packages/package_control/installation
 [Bitrix]: http://1c-bitrix.ru
