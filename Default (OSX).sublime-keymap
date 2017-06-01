@@ -1,4 +1,5 @@
 [
 	{ "keys": ["ctrl+super+b", "ctrl+super+b"], "command": "bitrix_help"},
+	
 	{ "keys": ["ctrl+super+b", "ctrl+super+c"], "command": "bitrix_help", "args": {"it": "bitrixComponents"}}
 ]
