@@ -27,7 +27,6 @@ If you like work with HEAD you can locate BitrixHelp in your packages directory.
 - Go to your Packages directory, you can locate to your Packages directory by using the menu item 
   Preferences ->   Browse Packages...
 - Inside the Packages directory, clone the BitrixHelp repository using the command below: 
-  git clone https://github.com/matiaspub/BitrixHelp.git Bitrix help
 
 ### Download Manually
 
